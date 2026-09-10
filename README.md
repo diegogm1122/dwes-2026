@@ -8,6 +8,7 @@ versiones, organizar el código y documentar el desarrollo de un proyecto.
 
 ## Estructura del proyecto
 
+```text
 dwes-2026/
 │
 ├── public/
